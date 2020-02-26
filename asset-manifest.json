@@ -1,23 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.93e0a062.chunk.css",
-    "main.js": "/static/js/main.ef5f5798.chunk.js",
-    "main.js.map": "/static/js/main.ef5f5798.chunk.js.map",
+    "main.css": "/static/css/main.7fad2c66.chunk.css",
+    "main.js": "/static/js/main.02b5bc2b.chunk.js",
+    "main.js.map": "/static/js/main.02b5bc2b.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.de4db8e8.chunk.js": "/static/js/2.de4db8e8.chunk.js",
-    "static/js/2.de4db8e8.chunk.js.map": "/static/js/2.de4db8e8.chunk.js.map",
+    "static/js/2.7560a16c.chunk.js": "/static/js/2.7560a16c.chunk.js",
+    "static/js/2.7560a16c.chunk.js.map": "/static/js/2.7560a16c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.20bcecc761253b40f77aeece48716a1f.js": "/precache-manifest.20bcecc761253b40f77aeece48716a1f.js",
+    "precache-manifest.99ec08c8638f4ce67ebdbac073fd9cef.js": "/precache-manifest.99ec08c8638f4ce67ebdbac073fd9cef.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.93e0a062.chunk.css.map": "/static/css/main.93e0a062.chunk.css.map",
-    "static/media/DotNetPlainWordmark.svg": "/static/media/DotNetPlainWordmark.ac59e568.svg",
-    "static/media/bg11.jpg": "/static/media/bg11.e643a6cf.jpg",
+    "static/css/main.7fad2c66.chunk.css.map": "/static/css/main.7fad2c66.chunk.css.map",
     "static/media/bg5.jpg": "/static/media/bg5.056eb058.jpg",
-    "static/media/bg6.jpg": "/static/media/bg6.d7d1aaf7.jpg",
-    "static/media/bg7.jpg": "/static/media/bg7.607a4a36.jpg",
-    "static/media/bg8.jpg": "/static/media/bg8.6737ce3b.jpg",
     "static/media/marco.png": "/static/media/marco.4a822c6a.png",
-    "static/media/now-ui-kit.scss": "/static/media/nucleo-outline.8ebec31f.woff2"
+    "static/media/now-ui-kit.scss": "/static/media/nucleo-outline.8ebec31f.woff2",
+    "static/media/under-construction.png": "/static/media/under-construction.193bace4.png"
   }
 }
